@@ -5,7 +5,6 @@
 - [프로젝트 소개](#프로젝트-소개)
 - [개발 환경](#개발-환경)
 - [개발팀](#개발팀)
-- [구현 기능](#구현-기능)
 
 ## 프로젝트 소개
 
@@ -16,8 +15,8 @@
 - KAKAO Map API, OpenWeather 날씨 API 사용
                                                                                                       
 ## 개발팀
-- 류가희([@justlikeryu](https://github.com/justlikeryu)) 
-- 전홍재([@honghong94](https://github.com/honghong94))
+- 류가희([@justlikeryu](https://github.com/justlikeryu)): 스프링 시큐리티, 회원 관련 CRUD
+- 전홍재([@honghong94](https://github.com/honghong94)): REST API, 서버 배포
 
 ## 기술 스택
 - 개발 언어 : Java (1.8)
@@ -32,26 +31,3 @@
 - 회원 가입, 회원 탈퇴 구현 및 마이 페이지 담당
 - AWS (Amazon Web Services)를 이용한 프로젝트 배포
 - REST API 적용 리팩토링 및 업데이트 중
-
-### Member
-
-- 회원
-    - 회원 가입
-    - 회원 정보 조회
-    - 아이디 및 비밀번호 찾기
-    - 비밀번호 및 전화번호 변경
-    - 회원 탈퇴
-- 프로필 사진
-    - 프로필 사진 업로드
-    - 프로필 사진 조회
-    - 프로필 사진 변경
-
-### Crew
-- 크루
-  - 크루 생성
-  - 크루 조회
-### REVIEW
-
-### AREA
-
-
